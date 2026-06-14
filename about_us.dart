@@ -70,7 +70,6 @@ class AboutUs extends StatelessWidget {
               // Creator Info
               Text("Created by Ali Masuth", style: TextStyle(fontSize: 15, color: colorScheme.onBackground)),
               Text("Course: IT-315-DL1", style: TextStyle(fontSize: 15, color: colorScheme.onBackground)),
-              Text("Date: May 5, 2025", style: TextStyle(fontSize: 15, color: colorScheme.onBackground)),
               const SizedBox(height: 16),
 
               // Divider
@@ -82,7 +81,7 @@ class AboutUs extends StatelessWidget {
 
               // Copyright footer
               Text(
-                "© 2025 Ali Masuth. All Rights Reserved.",
+                "© 2026 Ali Masuth. All Rights Reserved.",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 13,
